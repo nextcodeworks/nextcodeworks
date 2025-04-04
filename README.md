@@ -8,11 +8,12 @@
 
 - 🔹 **Python Developer** – I specialize in writing clean, efficient, and scalable Python code.  
 - 🔹 **Automation & Scripting** – I build scripts that save time and streamline workflows.  
-- 🔹 **Data Handling** – Experienced in processing, cleaning, and analyzing data.  
-- 🔹 **Web Scraping** – Extracting valuable data using BeautifulSoup & Requests.  
+- 🔹 **Data Handling** – Experienced in processing, cleaning, and analyzing data.
 - 🔹 **Trading Bots & Backtesting** – Developing tools for paper trading, signals, and strategy testing.  
 - 🔹 **Custom Discord Bots** – Creating feature-rich, high-performance Discord automation.  
-- 🔹 **Fast & Reliable** – Delivering high-quality solutions with quick response times.  
+- 🔹 **Fast & Reliable** – Delivering high-quality solutions with quick response times.
+
+- ⚡ **VSCode Theme:** Andromeda
 
 ### 📫 **Connect with Me:**  
 - 🌐 [Next Code Works Portfolio](https://nextcodeworks.github.io/)  
