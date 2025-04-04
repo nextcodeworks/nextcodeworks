@@ -12,9 +12,9 @@
 - 🔹 **Trading Bots & Backtesting** – Developing tools for paper trading, signals, and strategy testing.  
 - 🔹 **Custom Discord Bots** – Creating feature-rich, high-performance Discord automation.  
 - 🔹 **Fast & Reliable** – Delivering high-quality solutions with quick response times.
-
+---
 - ⚡ **VSCode Theme:** Andromeda
-
+---
 ### 📫 **Connect with Me:**  
 - 🌐 [Next Code Works Portfolio](https://nextcodeworks.github.io/)  
 - 💻 [GitHub Profile](https://github.com/nextcodeworks)  
