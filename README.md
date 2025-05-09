@@ -6,12 +6,14 @@
 
 ## 🚀 About Me  
 
-- 🔹 **Python Developer** – I specialize in writing clean, efficient, and scalable Python code.  
-- 🔹 **Automation & Scripting** – I build scripts that save time and streamline workflows.  
-- 🔹 **Data Handling** – Experienced in processing, cleaning, and analyzing data.
-- 🔹 **Trading Bots & Backtesting** – Developing tools for paper trading, signals, and strategy testing.  
-- 🔹 **Custom Discord Bots** – Creating feature-rich, high-performance Discord automation.  
-- 🔹 **Fast & Reliable** – Delivering high-quality solutions with quick response times.
+* 🔹 **Python Development** – I write clean and efficient Python code to solve real problems and bring your ideas to life. Whether it’s for automation, data handling, or custom apps, I’ve got you covered.
+* 🔹 **Discord Bots** – Need a custom bot for your server? I build bots that automate tasks, enhance engagement, and add cool features to make your Discord community thrive.
+* 🔹 **Desktop Apps** – From concept to creation, I develop modern desktop apps in Python that are both functional and user-friendly, perfect for all your needs.
+* 🔹 **Automation & Scripting** – I specialize in writing scripts that save you time and help streamline your workflow, whether that’s automating tasks or handling complex data.
+* 🔹 **Trading Bots** – I create bots for paper trading, signal generation, and strategy backtesting, helping you optimize your trading decisions.
+* 🔹 **Custom Solutions** – Whatever your project needs, I’ll work with you to build a tailored solution that fits perfectly, with a focus on quality and reliability.
+* 🔹 **Fast & Reliable** – I’m committed to delivering high-quality solutions quickly, so you never have to wait long for results.
+
 ---
 - ⚡ **VSCode Theme:** Andromeda
 ---
